@@ -1,0 +1,13 @@
+.containerPhonebook {
+  margin: 0 auto;
+  width: 400px;
+}
+.contactsCentered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}

@@ -1,0 +1,31 @@
+.conactForm {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 20px;
+  width: 400px;
+}
+.contactsButton {
+  width: 140px;
+  padding: 5px 15px;
+  border: 1px solid #003fff;
+  border-radius: 5px;
+  background-color: transparent;
+  color: #003fff;
+  margin: 30px auto;
+}
+.contactsButton:hover,
+.contactsButton:focus {
+  background-color: #003fff;
+  color: #ffffff;
+}
+.labelForm {
+  font-size: 18px;
+  line-height: 1.2;
+  color: #003fff;
+  font-weight: 500;
+}
+.inputForm {
+  width: 230px;
+  margin-left: 20px;
+}
